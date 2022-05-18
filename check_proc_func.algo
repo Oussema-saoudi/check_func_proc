@@ -1,0 +1,12 @@
+PROCEDURE dot_product(v1,v2,ps:INTEGER)
+VAR
+    set_declarations
+BEGIN
+    set_instructions
+END
+ALGORITHM Dot product
+VAR
+    set_declarations
+BEGIN 
+    set_instructions
+END
